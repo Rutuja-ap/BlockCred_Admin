@@ -4,11 +4,11 @@ node_modules/
 digital-signature-private.pem
 ganache-data/
 ganache-data-new/
-mongoDB_backup/
+mongoDB_backup
 uploads/
 dist/
 .vscode/
 /n
 *.pdf
 blockchain/artifacts/
-blockchain/cache/mongoDB_backup
+blockchain/cache/
