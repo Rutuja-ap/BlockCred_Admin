@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+digital-signature-private.pem
+ganache-data/
+ganache-data-new/
+mongoDB_backup/
+uploads/
+dist/
+.vscode/
+/n
+*.pdf
+blockchain/artifacts/
+blockchain/cache/
