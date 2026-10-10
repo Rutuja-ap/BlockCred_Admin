@@ -11,4 +11,4 @@ dist/
 /n
 *.pdf
 blockchain/artifacts/
-blockchain/cache/
+blockchain/cache/mongoDB_backup
